@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "John Wick",
+      "taxpayer_number": "00000000001",
+      "gender": "m",
+      "email": "john@email.com"
+    },
+    {
+      "id": 2,
+      "name": "Marina Smith",
+      "taxpayer_number": "11111111110",
+      "gender": "f",
+      "email": "marina@email.com"
+    },
+    {
+      "id": 3,
+      "name": "Joana Lannister",
+      "taxpayer_number": "11122233344",
+      "gender": "f",
+      "email": "joana@email.com"
+    },
+    {
+      "id": 4,
+      "name": "Giorgian de Arrascaeta",
+      "taxpayer_number": "12345678901",
+      "gender": "m",
+      "email": "arrasca@email.com"
+    },
+    {
+      "id": 5,
+      "name": "Neymar Júnior",
+      "taxpayer_number": "10101010101",
+      "gender": "m",
+      "email": " vai_neymar@email.com"
+    }
+  ]
+}
